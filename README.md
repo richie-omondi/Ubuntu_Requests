@@ -37,7 +37,7 @@ multi_image_downloader/
 1. Run the script:
 
 ```bash
-python3 downloader.py
+python3 image_downloader.py
 ```
 
 2. Enter one or more image URLs, separated by commas:
