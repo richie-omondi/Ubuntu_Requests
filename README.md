@@ -129,5 +129,4 @@ You are free to use, modify, and distribute it for personal or commercial use.
 
 👨‍💻 Author
 
-Richard Orido
-Built as a challenge to implement safe, concurrent image fetching in Python.
+Richard Orido - Built as a challenge to implement safe, concurrent image fetching in Python.
